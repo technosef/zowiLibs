@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Lisans koşulları ekranı</title>
+  <desc id="desc">Windows lisans sözleşmesi metni ve kabul kutusunu gösteren çizim.</desc>
+  <rect width="960" height="540" rx="32" fill="#0b1120" />
+  <rect x="120" y="70" width="720" height="400" rx="28" fill="#f8fafc" />
+  <rect x="150" y="110" width="660" height="260" rx="18" fill="#e2e8f0" />
+  <text x="180" y="150" font-family="'Segoe UI',sans-serif" font-size="22" fill="#1e293b">MICROSOFT YAZILIM LİSANS KOŞULLARI</text>
+  <g font-family="'Segoe UI',sans-serif" font-size="16" fill="#475569" opacity="0.9">
+    <text x="180" y="185">• Bu lisans anlaşması Windows'u kullanma koşullarını belirler.</text>
+    <text x="180" y="210">• Koşulları kabul etmeden kuruluma devam edemezsiniz.</text>
+    <text x="180" y="235">• Lisansı dikkatlice inceleyip onay kutusunu işaretleyin.</text>
+  </g>
+  <rect x="170" y="390" width="24" height="24" rx="6" fill="#2563eb" />
+  <path d="M176 401 l6 6 12-12" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="205" y="409" font-family="'Segoe UI',sans-serif" font-size="18" fill="#1e293b">Lisans koşullarını kabul ediyorum</text>
+  <rect x="600" y="380" width="160" height="48" rx="16" fill="#2563eb" />
+  <text x="680" y="410" text-anchor="middle" font-family="'Segoe UI Semibold',sans-serif" font-size="20" fill="#ffffff">İleri</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Yükleme türü seçimi</title>
+  <desc id="desc">Yükseltme ve özel yükleme seçeneklerini gösteren Windows kurulum ekranı.</desc>
+  <rect width="960" height="540" rx="32" fill="#0ea5e9" />
+  <rect x="140" y="90" width="680" height="360" rx="28" fill="#f8fafc" stroke="#bae6fd" stroke-width="3" />
+  <text x="200" y="160" font-family="'Segoe UI',sans-serif" font-size="26" fill="#0f172a">Hangi tür yükleme istiyorsunuz?</text>
+  <g font-family="'Segoe UI',sans-serif" font-size="18" fill="#475569">
+    <text x="200" y="200">• Yükselt: Mevcut dosya ve ayarlarla Windows'u güncelle</text>
+    <text x="200" y="225">• Özel: Temiz kurulum yap ve disk bölümlerini yönet</text>
+  </g>
+  <rect x="190" y="260" width="580" height="80" rx="20" fill="#c7d2fe" stroke="#6366f1" stroke-width="2" />
+  <text x="220" y="300" font-family="'Segoe UI Semibold',sans-serif" font-size="22" fill="#312e81">Özel: Yalnızca Windows'u yükle (gelişmiş)</text>
+  <rect x="190" y="360" width="580" height="70" rx="18" fill="#e2e8f0" />
+  <text x="220" y="402" font-family="'Segoe UI',sans-serif" font-size="20" fill="#1f2937">Yükselt: Windows'u yükle ve dosyaları tut</text>
+</svg>

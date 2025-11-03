@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">UEFI önyükleme menüsü çizimi</title>
+  <desc id="desc">USB bellek, dahili SSD ve ağ önyükleme seçeneklerini gösteren stilize ekran.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e3a8a" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bg)" rx="32" />
+  <rect x="120" y="80" width="720" height="380" rx="24" fill="url(#panel)" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2" />
+  <text x="480" y="140" fill="#93c5fd" font-family="'Segoe UI',sans-serif" font-size="26" text-anchor="middle">UEFI Boot Manager</text>
+  <g font-family="'Segoe UI',sans-serif" font-size="22" fill="#e2e8f0">
+    <rect x="220" y="190" width="520" height="56" rx="12" fill="#2563eb" opacity="0.85" />
+    <text x="240" y="227">USB Depolama Aygıtı</text>
+    <rect x="220" y="260" width="520" height="56" rx="12" fill="#1f2937" opacity="0.8" />
+    <text x="240" y="297">Dahili SSD</text>
+    <rect x="220" y="330" width="520" height="56" rx="12" fill="#1f2937" opacity="0.6" />
+    <text x="240" y="367">Ağ (PXE) Önyükleme</text>
+  </g>
+  <g fill="#38bdf8" opacity="0.8">
+    <rect x="220" y="410" width="220" height="6" rx="3" />
+    <rect x="460" y="410" width="120" height="6" rx="3" opacity="0.45" />
+  </g>
+</svg>
