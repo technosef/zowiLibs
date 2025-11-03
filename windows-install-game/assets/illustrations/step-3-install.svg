@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Kurulumu başlat ekranı</title>
+  <desc id="desc">Şimdi yükle düğmesi vurgulanmış Windows kurulum ana ekranı çizimi.</desc>
+  <rect width="960" height="540" rx="32" fill="#0c4a6e" />
+  <rect x="130" y="80" width="700" height="380" rx="30" fill="rgba(13,148,136,0.12)" stroke="#38bdf8" stroke-width="2" />
+  <text x="480" y="150" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="34" fill="#e0f2fe">Windows Kurulumu</text>
+  <text x="480" y="190" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="18" fill="#bae6fd">Devam etmek için "Şimdi yükle"yi seçin.</text>
+  <rect x="320" y="260" width="320" height="70" rx="20" fill="#2563eb" />
+  <text x="480" y="303" text-anchor="middle" font-family="'Segoe UI Semibold',sans-serif" font-size="26" fill="#ffffff">Şimdi yükle</text>
+  <rect x="380" y="350" width="200" height="36" rx="10" fill="rgba(148,163,184,0.3)" />
+  <text x="480" y="374" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="18" fill="#e2e8f0">Bilgisayarınızı onarın</text>
+</svg>
